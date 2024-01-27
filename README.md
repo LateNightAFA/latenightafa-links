@@ -20,7 +20,8 @@ Links to social media and Nitter instances for Late Night Anti-Fascists (@LateNi
 <br>
 <br>
 <br>
-# Nitter Instances Test (Working as of 2024-01-27)  
+# Nitter Instances Test 
+_(Working as of 2024-01-27)_  
 Nitter is a privacy front-end for viewing Twitter without logging in.  
 [https://nitter.net/LateNightAFA](https://nitter.net/LateNightAFA)  
 [https://nitter.1d4.us/LateNightAFA](https://nitter.1d4.us/LateNightAFA) (RSS works)  
