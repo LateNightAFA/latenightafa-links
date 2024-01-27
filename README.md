@@ -1,7 +1,7 @@
 # Links and Socials
 Links to social media and Nitter instances for Late Night Anti-Fascists (@LateNightAFA)
 
-[Twitter/X](https://twitter.com/LateNightAFA)  
+[Twitter / X](https://twitter.com/LateNightAFA)  
 [Bluesky](https://bsky.app/profile/latenightafa.bsky.social)  
 [Mastodon](https://kolektiva.social/@LateNightAFA)  
 [GitHub](https://github.com/LateNightAFA)  
@@ -13,8 +13,8 @@ Links to social media and Nitter instances for Late Night Anti-Fascists (@LateNi
 [Researchers & AFA](https://latenightafa.noblogs.org/researchers-and-afa/)  
 [Fash Pack 2024](https://latenightafa.noblogs.org/fash-pack-2024-over-1400-pdfs-of-nazi-unmaskings-and-the-far-right/)  
 <br/>
-[Rattibha](https://en.rattibha.com/LateNightAFA)  
-[Thread Reader App](https://threadreaderapp.com/user/LateNightAFA)  
+[Rattibha unrolls](https://en.rattibha.com/LateNightAFA)  
+[ThreadReaderApp unrolls](https://threadreaderapp.com/user/LateNightAFA)  
 [Wordpress RSS Feeds](https://latenightafa.wordpress.com/)  
 [Linktree](https://linktr.ee/latenightafa)  
 <br></br>
@@ -47,7 +47,6 @@ Nitter is a privacy front-end for viewing Twitter without logging in.
 [https://nitter.salastil.com/LateNightAFA](https://nitter.salastil.com/LateNightAFA)  
 [https://nitter.soopy.moe/LateNightAFA](https://nitter.soopy.moe/LateNightAFA) ✦  
 [https://nitter.uni-sonia.com/LateNightAFA](https://nitter.uni-sonia.com/LateNightAFA) ✦  
-[https://nitter.unixfox.eu/LateNightAFA](https://nitter.unixfox.eu/LateNightAFA)  
 [https://nitter.us.projectsegfau.lt/LateNightAFA](https://nitter.us.projectsegfau.lt/LateNightAFA)  
 [https://nitter.tux.pizza/LateNightAFA](https://nitter.tux.pizza/LateNightAFA) ✦  
 [https://nitter.woodland.cafe/LateNightAFA](https://nitter.woodland.cafe/LateNightAFA) ✦   
