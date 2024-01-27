@@ -11,10 +11,10 @@ Links to social media and Nitter instances for Late Night Anti-Fascists (@LateNi
 [Resources](https://latenightafa.noblogs.org/resources/)  
 [Archiving & OSINT](https://latenightafa.noblogs.org/archiving-and-osint/)  
 [Researchers & AFA](https://latenightafa.noblogs.org/researchers-and-afa/)  
-[Fash Pack 2024: Over 1,400 PDFs of Nazi Unmaskings and the Far-Right](https://latenightafa.noblogs.org/fash-pack-2024-over-1400-pdfs-of-nazi-unmaskings-and-the-far-right/)  
+[Fash Pack 2024](https://latenightafa.noblogs.org/fash-pack-2024-over-1400-pdfs-of-nazi-unmaskings-and-the-far-right/)  
   
-[Latest Twitter Threads by @LateNightAFA on Rattibha](https://en.rattibha.com/LateNightAFA)  
-[Latest Twitter Threads by @LateNightAFA on Thread Reader App](https://threadreaderapp.com/user/LateNightAFA)  
+[Rattibha](https://en.rattibha.com/LateNightAFA)  
+[Thread Reader App](https://threadreaderapp.com/user/LateNightAFA)  
 [Wordpress RSS Feeds](https://latenightafa.wordpress.com/)  
 [Linktree](https://linktr.ee/latenightafa)  
 <br>
