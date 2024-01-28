@@ -19,7 +19,7 @@ Links to social media and Nitter instances for Late Night Anti-Fascists (@LateNi
 [Linktree](https://linktr.ee/latenightafa)  
 <br></br>
 
-# Nitter Instances  
+# Nitter Instances / Nitter Alternatives  
 Nitter is a privacy front-end for viewing Twitter without logging in.  
 (Working as of 2024-01-27)  
 ✦ = RSS feed available
@@ -50,4 +50,5 @@ Nitter is a privacy front-end for viewing Twitter without logging in.
 [https://nitter.woodland.cafe/LateNightAFA](https://nitter.woodland.cafe/LateNightAFA) ✦   
 </br>
 To access the RSS feed from a Nitter instance, add /rss to the end of the URL.
+
 
