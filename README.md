@@ -24,7 +24,6 @@ Nitter is a privacy front-end for viewing Twitter without logging in.
 (Working as of 2024-01-27)  
 ✦ = RSS feed available
 <br/>
-[https://nitter.net/LateNightAFA](https://nitter.net/LateNightAFA)  
 [https://nitter.1d4.us/LateNightAFA](https://nitter.1d4.us/LateNightAFA) ✦  
 [https://nitter.adminforge.de/LateNightAFA](https://nitter.adminforge.de/LateNightAFA) ✦  
 [https://nitter.catsarch.com/LateNightAFA](https://nitter.catsarch.com/LateNightAFA) ✦  
