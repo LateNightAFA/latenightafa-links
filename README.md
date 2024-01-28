@@ -31,7 +31,6 @@ Nitter is a privacy front-end for viewing Twitter without logging in.
 [https://nitter.eu.projectsegfau.lt/LateNightAFA](https://nitter.eu.projectsegfau.lt/LateNightAFA)  
 [https://nitter.esmailelbob.xyz/LateNightAFA](https://nitter.esmailelbob.xyz/LateNightAFA) ✦  
 [https://nitter.fdn.fr/LateNightAFA](https://nitter.fdn.fr/LateNightAFA) ✦  
-[https://nitter.in.projectsegfau.lt/LateNightAFA](https://nitter.in.projectsegfau.lt/LateNightAFA)  
 [https://nitter.io.lol/LateNightAFA](https://nitter.io.lol/LateNightAFA) ✦  
 [https://nitter.jakefrosty.com/LateNightAFA](https://nitter.jakefrosty.com/LateNightAFA) ✦  
 [https://nitter.ktachibana.party/LateNightAFA](https://nitter.ktachibana.party/LateNightAFA) ✦  
