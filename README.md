@@ -1,12 +1,12 @@
 # Links and Socials
-Links to social media and Nitter instances for Late Night Anti-Fascists (@LateNightAFA)
+Links to social media for Late Night Anti-Fascists (@LateNightAFA)
 
+[LNAFA Blog](https://latenightafa.noblogs.org/)  
 [Twitter / X](https://twitter.com/LateNightAFA)  
 [Bluesky](https://bsky.app/profile/latenightafa.bsky.social)  
 [Mastodon](https://kolektiva.social/@LateNightAFA)  
 [GitHub](https://github.com/LateNightAFA)  
 <br/>
-[LNAFA Blog](https://latenightafa.noblogs.org/)  
 [Recent Posts](https://latenightafa.noblogs.org/recent-posts/)  
 [Resources](https://latenightafa.noblogs.org/resources/)  
 [Archiving & OSINT](https://latenightafa.noblogs.org/archiving-and-osint/)  
