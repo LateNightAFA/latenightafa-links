@@ -6,6 +6,7 @@ Links to social media for Late Night Anti-Fascists (@LateNightAFA)
 [Bluesky](https://bsky.app/profile/latenightafa.bsky.social)  
 [Mastodon](https://kolektiva.social/@LateNightAFA)  
 [GitHub](https://github.com/LateNightAFA)  
+[Nitter](https://nitter.net/LateNightAFA)
 <br/>
 [Recent Posts](https://latenightafa.noblogs.org/recent-posts/)  
 [Resources](https://latenightafa.noblogs.org/resources/)  
